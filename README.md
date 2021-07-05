@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nivriti Senthilnathan
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I will be uploading many projects with their detailed explanation
 - 📫 How to reach me saranyasennat@gmail.com
 - LinkedIn https://www.linkedin.com/in/nivriti-s-391283211/
 <!---
