@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nivriti Senthilnathan
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Cyber Security
 - 🌱 I will be uploading many projects with their detailed explanation
-- 📫 How to reach me saranyasennat@gmail.com
+- 📫 How to reach me nivritisenthilnathan05@gmail.com
 - LinkedIn https://www.linkedin.com/in/nivriti-s-391283211/
 <!---
 young-ai-expert/young-ai-expert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
